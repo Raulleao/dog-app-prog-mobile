@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".SoundDogs">
+
+    <Button
+        android:id="@+id/bt_sound0"
+        android:layout_width="320dp"
+        android:layout_height="80dp"
+        android:onClick="playSound"
+        android:layout_marginBottom="20dp"
+        android:drawableRight="@drawable/ic_animal"
+        android:text="VIRA LATA CARAMELO"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/bt_sound1"
+        android:layout_width="320dp"
+        android:layout_height="80dp"
+        android:onClick="playSound"
+        android:layout_marginBottom="20dp"
+        android:drawableRight="@drawable/ic_animal"
+        android:text="POODLE"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/bt_sound2"
+        android:layout_width="320dp"
+        android:layout_height="80dp"
+        android:onClick="playSound"
+        android:layout_marginBottom="20dp"
+        android:drawableRight="@drawable/ic_animal"
+        android:text="PINSCHER"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/bt_sound3"
+        android:layout_width="320dp"
+        android:layout_height="80dp"
+        android:onClick="playSound"
+        android:layout_marginBottom="20dp"
+        android:drawableRight="@drawable/ic_animal"
+        android:text="LABRADOR"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/bt_sound4"
+        android:layout_width="320dp"
+        android:layout_height="80dp"
+        android:onClick="playSound"
+        android:layout_marginBottom="20dp"
+        android:drawableRight="@drawable/ic_animal"
+        android:text="BULDOGUE"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</LinearLayout>

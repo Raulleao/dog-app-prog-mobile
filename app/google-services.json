@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "407367519016",
+    "project_id": "projeto-dog",
+    "storage_bucket": "projeto-dog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407367519016:android:1e696940607e9e45b09e1d",
+        "android_client_info": {
+          "package_name": "com.example.dogprojeto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407367519016-a8g62a0cq1ppln2mft5bta559q6dipmo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfAqT5ps1_6b0xeY2iSmnOGyEuyj80YIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407367519016-a8g62a0cq1ppln2mft5bta559q6dipmo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

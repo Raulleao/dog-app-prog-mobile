@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">dogprojeto</string>
+
+    <string name="entrar">Entrar</string>
+
+    <string name="text_cadastro">Crie uma conta clicando aqui</string>
+    <string name="title_cadastro">Cadastre-se</string>
+
+    <string name="cachorro1">Cachorro 1</string>
+
+
+    <!--VIRA-LATA COMEÇAR-->
+    <string name="carameloInformation">
+        - Peso médio: 18kg
+        \n- Altura: 38 a 57 cm de altura.
+        \n- Expectativa de vida: 14 a 16 anos
+    </string>
+    <string name="carameloResumo">
+        Os vira-latas caramelo são cães de mistura de raças com pelagem marrom ou caramelo.
+        Eles são conhecidos por sua diversidade genética e características variadas, herdados de suas raças ancestrais.
+        Esses cães são amigáveis, leais e se adaptam facilmente.
+    </string>
+    <!--VIRA-LATA ACABA-->
+
+
+    <!--    POODLE COMEÇA-->
+    <string name="poodleInformation">
+        - Peso médio: 12kg
+        \n- Altura: 35 e 45 cm de altura.
+        \n- Expectativa de vida: 12 a 15 anos
+    </string>
+    <string name="poodleResumo">
+        O Poodle é uma raça de cães conhecida por sua inteligência, elegância e pelagem encaracolada.
+        Originário da França, o Poodle é dividido em três variedades de tamanho: Padrão, Miniatura e Toy.
+        Eles são cães ativos, brincalhões e altamente adaptáveis, sendo facilmente treináveis e exibindo excelentes
+        habilidades de obediência.
+    </string>
+    <!--    POODLE ACABA-->
+
+    <!--    PINSCHER COMEÇA-->
+    <string name="pinscherInformation">
+        - Peso médio: 3.8kg
+        \n- Altura: 25 a 30 cm de altura.
+        \n- Expectativa de Vida: 12 a 16 anos
+    </string>
+    <string name="pinscherResumo">
+        O Pinscher é uma raça de cães pequenos e enérgicos originária da Alemanha.
+        Apesar de seu tamanho compacto, eles são conhecidos por sua personalidade destemida e alerta.
+        O Pinscher é um cão de guarda confiável, atento e corajoso, pronto para proteger sua família e
+        propriedade.
+    </string>
+    <!--    PINSCHER ACABA-->
+
+    <!--LABRADOR COMEÇA-->
+    <string name="labradorInformation">
+        - Peso médio: 32kg
+        \n- Altura: 57 a 62 cm de altura.
+        \n- Expectativa de Vida: 10 a 12 anos
+    </string>
+    <string name="labradorResumo">
+        O Labrador Retriever é uma raça de cães originária da Terra Nova, no Canadá. É conhecido por sua
+        natureza amigável, gentil e leal. Os Labradores são cães de porte médio a grande, musculosos e
+        robustos. Eles possuem uma disposição calma e equilibrada, sendo excelentes companheiros de família
+        e animais de estimação.
+    </string>
+    <!--LABRADOR TERMINA-->
+
+
+    <!--BULDOGUE COMEÇA-->
+    <string name="buldogueInformation">
+        - Peso médio: 19kg
+        \n- Altura: 31 a 40 cm de altura.
+        \n- Expectativa de vida: de 8 a 10 ano
+    </string>
+    <string name="buldogueResumo">
+        O Buldogue, também conhecido como Bulldog Inglês, é uma raça de cães de porte médio a grande
+        originária da Inglaterra. Eles são facilmente reconhecíveis por sua aparência distinta, com cabeça
+        larga, mandíbulas proeminentes e rugas no rosto. Os Bulldogs têm uma personalidade amigável,
+        carinhosa e dócil, sendo conhecidos por sua natureza calma e tranquila
+    </string>
+    <!--BULDOGUE TERMINA-->
+</resources>
+
